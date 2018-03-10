@@ -1,1 +1,3 @@
-# isel2018
+Autores:
+Pablo Ramos Izquierdo
+David Gil Lozano
